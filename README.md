@@ -23,7 +23,3 @@ Enter desired password length : 8
 Enter purpose : Github
 Password Saved!
 ```
-
-## .txt file Screenshot
-
-![Capture](C:\Users\MY PC\Github\PASSWORD-MAKER\Capture.PNG)
