@@ -4,7 +4,7 @@ This python code is intended to make a high security password. You can also use 
 
 ## Output 1
 
-```python
+```
 1:MAKE YOUR OWN PASSWORD
 2:LET COMPUTER MAKE IT FOR YOU
 Choose : 1
@@ -15,7 +15,7 @@ Password Saved!
 
 ## Output 2
 
-```python
+```
 1:MAKE YOUR OWN PASSWORD
 2:LET COMPUTER MAKE IT FOR YOU
 Choose : 2
